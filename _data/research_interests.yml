@@ -8,6 +8,8 @@
   tag: "python"
 - name: "Natural Language Processing"
   tag: "nlp"
+- name: "Information Retrieval"
+  tag: "ir"
 - name: "Biostatistics"
   tag: "biostatistics"
 - name: "Machine Learning"
